@@ -1,0 +1,8 @@
+{
+  "name": "Remix BB Wash \u0026 Dry Rewards Club",
+  "description": "ระบบสะสมคะแนนและบัตรสมาชิกร้านสะดวกซัก 24 ชั่วโมง BB Wash \u0026 Dry",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
